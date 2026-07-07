@@ -1,0 +1,7 @@
+/target/
+roms/external/*.ch8
+roms/external/*.rom
+screenshots/generated/
+scratch/
+*.ppm
+!screenshots/example.ppm
